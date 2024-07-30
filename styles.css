@@ -1,0 +1,9 @@
+/* Custom styles for the game shop */
+body {
+    padding-top: 56px;
+}
+
+header {
+    background: url('header-bg.jpg') no-repeat center center;
+    background-size: cover;
+}
